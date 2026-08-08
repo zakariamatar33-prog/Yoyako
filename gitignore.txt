@@ -1,0 +1,9 @@
+node_modules/
+android/
+ios/
+www/native-bridge.bundled.js
+google-services.json
+*.keystore
+*.jks
+keystore.properties
+.DS_Store
